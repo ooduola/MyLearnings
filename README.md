@@ -1,9 +1,9 @@
-# Olatunji Oduola - Portfolio
+# My learnings
 
-This is a space to keep track of my learning journey at Makers Academy.
+This is a space to keep track of my learning journey at Makers Academy over the next 12 weeks.
 
 
-### My Goals 
+### My course goals 
 #### 1) I can make anything
 - I can TDD anything
 - I can program fluently
