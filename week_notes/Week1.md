@@ -1,24 +1,18 @@
 # Week 1
 
-## Week Goals
+Week 1 Outline
 
-By the end of the week I want to be able to:
+Learning objectives 
 1. Test-drive a simple program using objects and methods
 2. Pair using the driver-navigator style
 3. Follow an effective debugging process
 4. Describe some basic OO principles like encapsulation, SRP
 
-**Plans to achieve**
+Plan to achieve
  1. Work through week 1 Boris Bike challenge
  2. Spend time going through Rspec and understanding the concept
- 3. Work through debugging exercises and complete 
- 4. Work through OO exercises in the course week outline
-
-**Evidence**
-- 
-- 
--
--
+ 3. Attend Debugging workshop and through exercises 
+ 4. Attend TDD workshop and through exercises 
 
 
 ## Daily Goals 
@@ -34,13 +28,13 @@ By the end of the week I want to be able to:
  - EVIDENCE: Completed exercises 1-4
  
   *Thursday 14th May 2020*
- - GOAL: 
- - PLAN: 
+ - GOAL: Improve TDD Process 
+ - PLAN: Attend TDD Workshop and complete exercise
  - EVIDENCE: 
 
   *Friday 15th May 2020*
- - GOAL: 
- - PLAN: 
+ - GOAL: Improve TDD process. To describe encapsulation and SRP
+ - PLAN: Continue to work on TDD workshop and exercises
  - EVIDENCE: 
 
 
