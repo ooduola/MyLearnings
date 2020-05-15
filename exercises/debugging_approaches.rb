@@ -30,10 +30,15 @@ def decode(ciphertext, key)
   plaintext_chars.join
 end
 
-#Steps to finding the problem
+#Steps to finding the problem for encode method.
 
-# step1: Find the exactly line you're getting the error from. Right down the error message causing the program to crash.
-# step2: Using the p command get visibility of what's happening on the exact line
-# step3: Once you understand the one problem 
-# line 20: Use 'cipher.find_index(char)' to test your theo
-# line 18: Once you locate the problem. Get visibility of the cipher variable to understand where thi 
+# step1: Find the exact line causing the error. Make note of the error message.
+# step2: Using the p command get visibility of what's happening on that exact line
+# step3: Once you understand the one problem causing the error, investigate the origins of the object responsible the return.
+# step4: Using the p command get visbility of this object output and investigate your problems in step 3.
+# step5: Once you found your problem test your theory to satisfy step 3 using the # and p command.
+# step5: Fix and run your problem.
+
+# Steps to finding problem for decode method
+
+# steps1: 
