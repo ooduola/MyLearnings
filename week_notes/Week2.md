@@ -1,27 +1,51 @@
 # Week 2 
 [Back](README.md) | [Week 2 outline](https://github.com/makersacademy/course/blob/master/week_outlines.md#week-2)
 
-Week 2 Learning Objectives
-- [ ] Number 1
-
+**Week 2 Learning Objectives**
+- [ ] Use all of week 1's skills (don't underestimate the importance of this)
+- [ ] Break one class into two classes that work together, while maintaining test coverage
+- [ ] Unit test classes in isolation using mocking
+- [ ] Explain some basic OO principles and tie them to high level concerns (Encaptulation, abstraction)
+- [ ] Review another person's code and give them meaningful feedback
 
 Achievement plans
-- [ ] Number 1
-
-
----
-## Monday
-Learning Objective & Achievement Plan
-I will move towards the **xxxxxx** goal by doing the following:
-- [ ] Number 1
-
-
-
-
+- [ ] Attend [code review workshop](https://github.com/makersacademy/skills-workshops/tree/master/week-2/code_review) 
+- [ ] TDD Exercise with one and two classes
+- [ ] Mocking exercise 
+- [ ] Understand encapulation and abstractions in more detail.
+ 
 
 ---
-## Week 2 Afternoon Challenge - Oyster Card
+
+*Monday 18th May 2020*
+ - GOAL: Successfully implements week 1 learning on oystercard challenge. 
+ - PLAN: Pair on oyestercard challenge. 
+ - OUTCOME: Successfully got to step 6 on the challenge.
+
+*Tuesday 19th May 2020*
+ - GOAL: 
+ - PLAN:  
+ - OUTCOME:
+
+ *Wednesday 20th May 2020*
+ - GOAL: 
+ - PLAN:  
+ - OUTCOME:
+
+ *Thursday 21st May 2020*
+ - GOAL: 
+ - PLAN:  
+ - OUTCOME:
+
+ *Friday 22nd May 2020*
+ - GOAL: 
+ - PLAN:  
+ - OUTCOME:
+---
+
+### Week 2 Afternoon Challenge - Oyster Card
 [GitHub repo]() with all Learning Objectives, notes, and code.
+
 ---
 <!--
 ## Retrospective
