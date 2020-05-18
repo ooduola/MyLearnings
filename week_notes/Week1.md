@@ -12,9 +12,7 @@ Plan to achieve
 - [x] Work through week 1 Boris Bike challenge
 - [x] Spend time going through Rspec and understanding the concept
 - [x] Attend Debugging workshop and through exercises 
-- [ ] Attend TDD workshop and through exercises 
-
- 
+- [ ] Work through TDD exercises 
 
 ---
 
@@ -42,6 +40,12 @@ Plan to achieve
 
 ---
 
+### Week 1 Afternoon Challenge - Boris Bikes
+
+[GitHub repo](https://github.com/ooduola/Boris-bikes-4) with all Learning Objectives, notes, and code.
+
+---
+
 ## Retrospective
 
 ### Achievments for the week
@@ -54,13 +58,16 @@ Plan to achieve
 ### Score: 7/10
 
 **Reasons for score**
- - I feel confidendt with the principcles of TDD and Debugging in particular.
- - In hindsight I was set a quite ambitious target. 
- - I would have liked to completed more TDD exercises
- - I got to step 18/22 on Boris-Bikes and felt I learned a lot about TDD process.
- - I would have like to complete the weekend airport challenge. Only completed 4/6 user stories. 
+ - I feel confident with the basic principcles of TDD and Debugging.
+ - Reached step 18/22 on Boris-Bikes and felt I learned a lot about TDD process.
+ - Completed 4/6 user stories for the weekend challenge.
+ - Would have liked to complete at least 1 challenge and worked on more TDD exercises.
 
- ### Material to focus on
+ **Material to focus on**
   - TDD exericse for 1 and 2 classes
   - OO Principles more specifically getting to grips with encaptulation, abstraction, SRP.
   - Mocking and complete 2 exercises.
+
+---
+### Week 1 Weekend Challenge - Airport
+[GitHub repo](https://github.com/ooduola/airport_challenge) with all Learning Objectives, notes, and code.
