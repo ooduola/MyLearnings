@@ -42,3 +42,26 @@ end
 # Steps to finding problem for decode method
 
 # steps1: 
+
+# feedback from Eion. 
+=begin
+Eóin Power  3 days ago
+Love that you've included the steps to approach debugging this problem. The process you've outlined looks great.
+I think looping from steps 1 - 4 would be really useful for this particular exercise
+ - could you follow this process to find out where the bugs are? It might be worth finding each bug one by one and 
+ providing a little bit of text about the effectiveness of the process you've outlined, or if there's anything you 
+ would change about it. You don't need to worry about fixing the bugs, just identifying them. :slightly_smiling_face:
+How does that sound?
+
+Olatunji Oduola  3 days ago
+Ahh ok. So do you mean highlighting the actual bug rather than giving steps to how to find it?
+
+Olatunji Oduola  3 days ago
+So stating the cause of the problem is xyz and explaining how I got there?
+
+Eóin Power  3 days ago
+Exactly. Super useful to lay out those steps to debug, and I think the next part is it apply those to identify as many bugs in encode / decode as you can, and then explain how your process helped to find them :slightly_smiling_face:
+
+Olatunji Oduola  3 days ago
+that's really useful feedback. Thanks a lot Eóin
+=end
