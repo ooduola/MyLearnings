@@ -6,7 +6,7 @@
 - [ ] Break one class into two classes that work together, while maintaining test coverage
 - [ ] Unit test classes in isolation using mocking
 - [ ] Explain some basic OO principles and tie them to high level concerns (Encaptulation, abstraction)
-- [ ] Review another person's code and give them meaningful feedback
+- [x] Review another person's code and give them meaningful feedback
 
 Achievement plans
 - [ ] Attend [code review workshop](https://github.com/makersacademy/skills-workshops/tree/master/week-2/code_review) 
@@ -23,13 +23,13 @@ Achievement plans
  - OUTCOME: Successfully got to step 6 on the challenge.
 
 *Tuesday 19th May 2020*
- - GOAL: 
- - PLAN:  
- - OUTCOME:
+ - GOAL: Improve my TDD Process with one object
+ - PLAN: Tackcle dice_app exercise. Make a start on checkout exercise.
+ - OUTCOME: completed [dice_app](https://github.com/ooduola/dice_app) exercise. Reached user story 3.
 
  *Wednesday 20th May 2020*
- - GOAL: 
- - PLAN:  
+ - GOAL: Break one class into two classes that work together.
+ - PLAN: Complete simple checkout exercise.
  - OUTCOME:
 
  *Thursday 21st May 2020*
