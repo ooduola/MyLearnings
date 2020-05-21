@@ -25,17 +25,17 @@ Achievement plans
 *Tuesday 19th May 2020*
  - GOAL: Improve my TDD Process with one object
  - PLAN: Tackcle dice_app exercise. Make a start on checkout exercise.
- - OUTCOME: completed [dice_app](https://github.com/ooduola/dice_app) exercise. Reached user story 3.
+ - OUTCOME: completed [dice_app](https://github.com/ooduola/dice_app) exercise. Reached user story 3 on simple checkout.
 
  *Wednesday 20th May 2020*
- - GOAL: Break one class into two classes that work together.
- - PLAN: Complete simple checkout exercise.
- - OUTCOME:
+ - GOAL: Break one class into two classes that work together. Improve TDD process using domain diagram model
+ - PLAN: Complete simple checkout exercise. Attend process workshop. 
+ - OUTCOME: Got to user story 3. Successfully pairred in process work shop and got feedback.
 
  *Thursday 21st May 2020*
- - GOAL: 
- - PLAN:  
- - OUTCOME:
+ - GOAL: Understand the concept of Mocks and Doubles. Improve TDD process with a focus on multiple objects
+ - PLAN: complete simple checkout exercise and get feedback from coaches. Read material on mocks & double. 
+ - OUTCOME: Implemented mocks/doubles to successfully complete step 14 of oystercard challenge. 
 
  *Friday 22nd May 2020*
  - GOAL: 
