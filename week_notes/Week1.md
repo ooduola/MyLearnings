@@ -1,4 +1,4 @@
-# Week 1
+# Week 1 - Test Driven Development
 
 [Week 1 Outline](https://github.com/makersacademy/course/blob/master/week_outlines.md#week-1)
 

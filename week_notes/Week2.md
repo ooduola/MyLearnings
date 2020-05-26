@@ -1,4 +1,4 @@
-# Week 2 
+# Week 2 - Object Oriented Programming
 [Back](https://github.com/ooduola/MyLearnings/tree/master/week_notes) | [Week 2 outline](https://github.com/makersacademy/course/blob/master/week_outlines.md#week-2)
 
 **Week 2 Learning Objectives**
@@ -78,7 +78,7 @@ Sometimes, good feedback can give us a false sense of confidence or understandin
 After some reflection (writing this has helped massively), I can honestly say I’ve learned a lot this week and I am a more knowledgable Software Engineer than 7 days ago and for that reason, I will rest well and prepare myself for another week of growing :)
 
 ### Material to re-cover
- - OO principles and tie them to high level concerns (Encaptulation, abstraction, Forwarding, Polymorphism)
+ - OO principles and tie them to high level concerns (abstraction, Forwarding, Polymorphism)
  - Mockings/Doubles
 
 ---
