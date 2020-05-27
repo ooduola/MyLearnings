@@ -11,24 +11,25 @@ Week 3 Learning Objectives
 - [ ] Explain the MVC pattern
 
 Achievement plans
-- [ ]
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ]  
+- [ ] Work through Servers & Clients: Servers 1 
+- [ ] Work through Servers & Clients: Clients 1&2 
+- [ ] Complete the Debugging 2 workshop
+- [ ] Complete the Process Modelling on TLR
+- [ ] Complete the Birthday Greeter App. 
+- [ ] Read through explainer pills to understand (HTTP, Internet/Web and Rack.)
 
 ---
 *Monday 26th May 2020*
  - GOAL: BANK HOLIDAY
 
 *Tuesday 26 May 2020*
- - GOAL: 
- - PLAN: 
- - OUTCOME:
+ - GOAL: Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS)
+ - PLAN: Read through internet_web.md pill and online material
+ - OUTCOME: Made notes and now have a basic understanding. 
 
 *Wednesday 27th May 2020*
- - GOAL: 
- - PLAN: 
+ - GOAL: Improve understanding of HTTP and Servers. 
+ - PLAN: Work through Clients & Servers 1 practical. Read through HTTP in depth
  - OUTCOME:
 
 *Thursday 28th May 2020*
