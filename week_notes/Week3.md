@@ -30,11 +30,11 @@ Achievement plans
 *Wednesday 27th May 2020*
  - GOAL: Improve understanding of HTTP and Servers. 
  - PLAN: Work through Clients & Servers 1 practical. Read through HTTP in depth
- - OUTCOME:
+ - OUTCOME: Completed Client 1 pratical. Have a good basic understanding of request/response, HTTP and HTML.
 
 *Thursday 28th May 2020*
- - GOAL: 
- - PLAN: 
+ - GOAL: To get the basics of building a simple web app. Understand what rack is.
+ - PLAN: Complete the Birthday Greeter App. Read through Pills on Rack and Sinatra.
  - OUTCOME:
 
 *Friday 29th May 2020*
