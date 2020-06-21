@@ -29,23 +29,23 @@ Learning Objective & Achievement Plan
  - OUTCOMES: I understand the difference between constructor and prototype. Test driven the start of Thermostat challenge using both methods.
 
  *Wednesday 10th June 2020*
- - GOAL: 
- - PLAN: 
- - OUTCOMES:
+ - GOAL: Test drive a simple web-app
+ - PLAN: Working through Afternoon challenge and continue to test drive a simple web app.
+ - OUTCOMES: Paired on thermostat challenge.
 
  *Thursday 11th June 2020*
- - GOAL: 
- - PLAN: 
- - OUTCOMES:
+ - GOAL: Test drive a simple web-app
+ - PLAN: Working through Afternoon challenge and continue to test drive a simple web app.
+ - OUTCOMES: Paired on thermostat challenge.
 
  *Friday 12th June 2020*
- - GOAL: 
- - PLAN:
- - OUTCOMES:
+ - GOAL: Test drive a simple web-app
+ - PLAN: Working through Afternoon challenge and continue to test drive a simple web app.
+ - OUTCOMES: Paired on thermostat challenge.
 ---
 
-## Week 5 Afternoon Challenge - Afternoon Challenge
- - [GitHub repo]() with all Learning Objectives, notes, and code.
+## Week 5 Afternoon Challenge - Thermostat Challenge
+ - [GitHub repo](https://github.com/ooduola/thermostat-challenge-4/tree/master/jasmine) with all Learning Objectives, notes, and code.
 ---
 
 ## Retrospective
@@ -55,19 +55,23 @@ Learning Objective & Achievement Plan
 - [x] Follow an effective debugging process for web applications
 - [x] Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS)
 - [x] Explain the MVC pattern
-### Score: 8
+
+### Score: 7
 
 #### Reasons for Score
-- First reason
+- I was happy with how quickly I picked up the JS syntax and applied it to the javabuzz challenge. 
+- I ended up with a working solution for the thermostat web app at the end of the week.  
+- Need to understand the following concepts in more details (asynch js, JSON, Ajax, JQuery)
 
 ### Material to re-cover
 - JSON
 - JQuery 
-- Linking front end to back-end applications. 
+- Linking front end to back-end applications.
+- Ajax 
 ---
 
-## Week 5 Weekend Challenge - Thermostat
+## Week 5 Weekend Challenge - Bowling Scorecard
 
-- [GitHub repo](https://github.com/ooduola/thermostat-challenge-4/tree/master/jasmine) with all Learning Objectives, notes, and code.
+- [GitHub repo]() with all Learning Objectives, notes, and code.
 ---
 
