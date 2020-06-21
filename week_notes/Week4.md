@@ -69,8 +69,7 @@ Learning Objective & Achievement Plan
 ### Material to re-cover
 - Many-to-many relationships
 
-
 ---
-## Week 5 Weekend Challenge - Chitter
+## Week 4 Weekend Challenge - Chitter
  - [GitHub repo](https://github.com/ooduola/chitter-challenge) with all Learning Objectives, notes, and code.
 ---
