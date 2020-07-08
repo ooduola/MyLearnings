@@ -4,62 +4,52 @@
 [Back](README.md) | [Week 6 outline](https://github.com/makersacademy/course/blob/master/week_outlines.md#week-6)
 
 Week 6 Learning Objectives
-- [ ] 
-- [ ] 
+- [x] Break down projects into tasks and allocate them to pairs
+- [x] Build to a specificiation (rather than challenges)
+- [x] Run stand-ups and retrospectives
+- [x] Use a branch/PR/merge git workflow
+- [x] Give and receive meaningful code review
 
 Achievement plans
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ]
-
+- [ ] Work through project plan
 ---
 
 Learning Objective & Achievement Plan
 
-*Monday 15th June 2020*
- - GOAL: 
- - PLAN:
- - OUTCOMES:
+*Monday 22nd June 2020*
+ - Worked on project
 
- *Tuesday 16th June 2020* 
- - GOAL: 
- - PLAN: 
- - OUTCOMES: 
+ *Tuesday 23rd June 2020* 
+ - Worked on project
 
- *Wednesday 17th June 2020*
- - GOAL: 
- - PLAN: 
- - OUTCOMES:
+ *Wednesday 24th June 2020*
+ - Worked on project
 
- *Thursday 18th June 2020*
- - GOAL: 
- - PLAN: 
- - OUTCOMES:
+ *Thursday 25th June 2020*
+ - Worked on project
 
- *Friday 19th June 2020*
- - GOAL: 
- - PLAN:
- - OUTCOMES:
+ *Friday 26th June 2020*
+ - Worked on project
 ---
 
-## Week 6 Afternoon Challenge - MakersBnB
- - [GitHub repo]() with all Learning Objectives, notes, and code.
+## Week 6 Project Week - MakersBnB
+ - [GitHub repo](https://github.com/ooduola/MakersBnB) 
 ---
-<!--
+
 ## Retrospective
-### Achievements this week
-- [ ] Build a simple web app
-- [ ] Follow an effective debugging process for web applications
-- [ ] Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS)
-- [ ] Explain the MVC pattern
-### Score: z
-#### Reasons for Score
-- First reason
-### Material to re-cover
-- First material
----
-## Week X Weekend Challenge - WEEKENDCHALLENGE
-[GitHub repo]() with all Learning Objectives, notes, and code.
----
 
+### Achievements this week
+- [x] Built a frontend single page app using pure JS. 
+- [x] explain and give an example of asynchronous behaviour in Javascript
+- [x] Diagram parts of the program
+
+### Score: 7
+
+#### Reasons for Score
+- I enjoyed working on my first group project. I had a great team and felt challenged throughout the week. 
+- Would have liked to completed all user stories.
+
+### Material to re-cover
+- Javascript interacting with Sinatra application
+- Bootstrap / CSS 
+- Pull request / Travis CI/CD / Heroku 

@@ -1,0 +1,64 @@
+# Week 8-9 - Engineering Project Week (Acebook)
+[Back](README.md) | [Week 8 outline](https://github.com/makersacademy/course/blob/master/week_outlines.md#week-)
+
+Week 8-9 Learning Objectives
+- [ ] Can you use high-quality processes to build a project in a team?
+
+Achievement plans
+- [ ] Continue to work on Acebook challenge. Complete Weekend challenge. 
+---
+## Week 8
+
+What did I do / learn?
+
+ - Agreed and worked on a team charter and developed a team process.
+ - Learned the bacis of Rails and created a simple rails blog app. 
+ - Started our project set up with Travis, CI/CD, Heroku
+ - Created our first user specification. CRUD
+ - Created our second user specification. Authentication 
+
+## Week 9 
+
+What did I do / learn?
+ 
+  Monday 
+  - Learned to use Active Storage following the ruby guides (instagram challenge) 
+  - Connected Post to User in Acebook challenge. 
+  - Restricted user to only see login/signup page if not logged in. 
+  - Struggled with deploying on Heroku for merge. 
+
+  Tuesday
+  - Started the post/comments feature.  
+  - Implemented a Create/Destroy action for comments. Need to completed the U (Update action)
+  - Worked on basic React understanding how to import React and ReactDOM. Also used ReactDOM.render. 
+
+  Wednesday
+   - Implemented the UPDATE action for comments
+   - Need to look into AJAX for post/comments
+   - Need to refactor code to improve code quality
+   - Struggled to understand the blockers the other team had with turning rails into API to talk to a front-end app. 
+  
+
+---
+## Week 8-9 Engineering Project Challenge - Acebook §
+
+
+[GitHub repo]() with all Learning Objectives, notes, and code.
+
+---
+<!--
+## Retrospective
+### Achievements this week
+- [ ] Build a simple web app
+- [ ] Follow an effective debugging process for web applications
+- [ ] Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS)
+- [ ] Explain the MVC pattern
+### Score: z
+#### Reasons for Score
+- First reason
+### Material to re-cover
+- First material
+---
+## Week X Weekend Challenge - WEEKENDCHALLENGE
+[GitHub repo]() with all Learning Objectives, notes, and code.
+---
