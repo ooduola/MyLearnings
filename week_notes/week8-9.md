@@ -37,7 +37,18 @@ What did I do / learn?
    - Need to look into AJAX for post/comments
    - Need to refactor code to improve code quality
    - Struggled to understand the blockers the other team had with turning rails into API to talk to a front-end app. 
-  
+
+   Thursday 
+   - Learned how to implement a feature test using Factory_bot_rails.
+   - Learned some basic bootstrap and implemented css into our web app.
+   - Did not implement the AJAX asynchronous feature for comments. 
+   - Reminding myself comparison is the theif of joy! 
+   - Reminding myself to set boundaries and be confident to speak up. 
+   - Reminding myself to let things go and continue to move forward.
+   - Reminding myself of the importance of self-reflection and forgivness.
+   - Reminding myself of my long-term goal
+   - Reminding myself to continue to adopt a growth mindset.
+   - Last but not least always aim for happiness! 
 
 ---
 ## Week 8-9 Engineering Project Challenge - Acebook §
