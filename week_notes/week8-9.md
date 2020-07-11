@@ -2,7 +2,7 @@
 [Back](README.md) | [Week 8 outline](https://github.com/makersacademy/course/blob/master/week_outlines.md#week-)
 
 Week 8-9 Learning Objectives
-- [ ] Can you use high-quality processes to build a project in a team?
+- [x] Can you use high-quality processes to build a project in a team?
 
 Achievement plans
 - [ ] Continue to work on Acebook challenge. Complete Weekend challenge. 
@@ -50,26 +50,33 @@ What did I do / learn?
    - Reminding myself to continue to adopt a growth mindset.
    - Last but not least always aim for happiness! 
 
+   Friday
+   - Added animated CSS elements to our web app
+   - Added responsive CSS elements to our web app. 
+   - Team bonding at the end of project with Scribble was great to wrap up the week.
+   - Demo our web app to the cohort. 
 ---
-## Week 8-9 Engineering Project Challenge - Acebook §
+## Week 8-9 Engineering Project Challenge - [Zenbook](https://github.com/ooduola/acebook-TeamNameComingSoon-rails) 
 
 
-[GitHub repo]() with all Learning Objectives, notes, and code.
-
----
-<!--
 ## Retrospective
+
 ### Achievements this week
-- [ ] Build a simple web app
-- [ ] Follow an effective debugging process for web applications
-- [ ] Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS)
-- [ ] Explain the MVC pattern
-### Score: z
+- [x] Developed a team process to effectively build a web app whilst prioritising happiness and learning. 
+- [x] Learned to use Ruby on Rails from scratch and built a functioning web app.
+- [x] Learned to use Active Storage following the ruby guides (instagram challenge) 
+- [x] Implemented CRUD feature on web app
+- [x] Tested web app using the gem Factory Bot Rails. 
+- Learned to add animation effects using CSS /Bootstap.
+
+### Score: 9
+
 #### Reasons for Score
-- First reason
+- I learned so much this week. Really happy with the result of our collective effort.
+- The week felt seemless and I felt we worked well as a group. 
+
 ### Material to re-cover
-- First material
----
-## Week X Weekend Challenge - WEEKENDCHALLENGE
-[GitHub repo]() with all Learning Objectives, notes, and code.
+- AJAX
+- JSON 
+- Turning a Rails app into an APIcd
 ---
