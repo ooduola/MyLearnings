@@ -19,10 +19,28 @@ Achievement plans
 ## Monday
  - GOAL: Improve on my development process.
  - PLAN: Complete code review and get started on Bank Tech test.
+ - OUTCOMES: Attended code review and process workshop.
+
+## Tuesday
+ - GOAL: Improve on my development process.
+ - PLAN: Work through bank tech test
+ - OUTCOMES: Made progress in developing the account class. Had to slow down and think about wider design. 
+
+## Wednesday
+ - GOAL: Improve on my development process.
+ - PLAN: Work through bank tech test and attend process workshop
+ - OUTCOMES: Made progress on test. Should complete by tomorrow.
+
+## Thursday 
+ - GOAL: Improve on my development process.
+ - PLAN: Complete bank tech test and submit for feedback.
+ - OUTCOMES: Went through bank tech test feedback with coach. Really helpful feedback.
+
+## Friday
+ - GOAL: 
+ - PLAN:
  - OUTCOMES: 
 ---
-
-
 
 ## Week 10 Challenge - Bank Tech Test
 [GitHub repo]() with all Learning Objectives, notes, and code.
