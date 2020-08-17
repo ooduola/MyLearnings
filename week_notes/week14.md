@@ -23,7 +23,7 @@
 
 - Went to gym 3 times
 
-# week 16 focus
+# week 15 focus
 
 ## Network
 
