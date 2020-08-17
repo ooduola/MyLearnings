@@ -2,16 +2,16 @@
 
 ## Network
 
-- Mentorship: Connected with Papanii, Director of Engineering @ Venmo. Reccommended book 7 habits of highly effective people.
+- Mentorship: Connected with Papanii, Director of Engineering @ Venmo. Recommended book 7 habits of highly effective people.
 
 ## Coding
 
 - Practiced TDD with ruby redoing Boris Bike challenge.
-- Recaped on OOD principles. Encapulation, Abstraction, Inheritance, Polymorphism.
-- Recaped on Testing OO Relationships using Mocking.
+- Recapped on OOD principles. Encapsulation, Abstraction, Inheritance, Polymorphism.
+- Recapped on Testing OO Relationships using Mocking.
 - Learned about the SOLID principles in OOD.
 - Practiced TDD in JS with Jasmine, redoing on Thermostat.
-- Recapped on the three tier web architechture.
+- Recapped on the three tier web architecture.
 
 ## Job hunt
 
